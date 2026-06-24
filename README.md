@@ -1,45 +1,80 @@
-# Hi there, I'm Aks Dhama! 👋
+<div align="center">
 
-🚀 **Apprentice Software Engineer at Zone 01**
+# 🚀 Welcome to My Digital Workspace!
 
-I am an aspiring developer honing my skills at Zone 01, immersed in peer-to-peer learning and collective intelligence. I enjoy building efficient backend logic, designing sleek user interfaces, and solving complex algorithmic challenges.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Python+%7C+Full-Stack+Developer+%F0%9F%90%8D;Building+Smart+%26+Sleek+Applications+%F0%9F%93%B1;Passionate+About+UI%2FUX+%26+Algorithms+%E2%9A%99%EF%B8%8F)](https://github.com/)
 
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend & Databases** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhamam0067&theme=github-dark&area=true&hide_border=true&bg_color=0d1117" alt="aksdhamam0067's Contribution Graph" width="100%" />
+<p>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0891b2?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Linux%20%26%20Windows-0891b2?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksdhamam0067&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="aksdhamam0067's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksdhamam0067&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="aksdhamam0067's Top Languages" width="48%" />
-</p>
+</div>
 
 ---
 
-## 🎯 What I'm Up To
+## 💡 About Me
 
-* 🔭 **I'm currently working on:** Project-based tracks at **Zone 01**.
-* 🌱 **I'm deepening my knowledge in:** **Go concurrency** and **Django REST Framework**.
-* 🤝 **I'm looking to collaborate on:** Open-source Python or Go automation tools.
-* 💬 **Ask me about:** Learning to code without traditional teachers!
+I am a **Computer Science Engineering** student with a deep passion for writing clean, efficient code and transforming ideas into interactive, scalable software applications. I specialize in building utility tools, intelligent desktop software, and responsive user experiences.
+
+- 🎓 **Focus Area:** Software Architecture, Algorithms, and Core CSE
+- ⚙️ **Currently Learning:** Advanced UI framework design and full-stack API architectures
+- 🤝 **Open to:** Collaborating on innovative open-source Python tools and application frameworks
+- ⚡ **Fun Fact:** I love optimizing interfaces down to the pixel and automating repetitive tasks with scripts.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/aksdhamam0067">
-    <img src="https://komarev.com/ghpvc/?username=rrouwelng&label=Profile%20Views&color=00ADD8&style=flat-square" alt="Profile Views" />
+## 💻 Tech Stack
+
+### 🚀 Languages & Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="Languages" />
   </a>
 </p>
+
+### 🛠️ Tools & Environment
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Featured Engineering Projects
+
+### 📍 [Healthiest Route Navigation App](https://github.com/)
+An intelligent routing application designed for Indian urban areas that calculates paths not just based on distance, but by factoring in **real-time air quality metrics** and **heat index levels**.
+* **Tech Stack:** Python, Mapping APIs, Data Parsers
+
+### 📱 [Custom Mobile/Desktop Application Frameworks](https://github.com/)
+A collection of native Python applications featuring highly responsive interfaces, custom UI elements, and fast back-end state handling.
+* **Tech Stack:** Python, UI design engines
+
+---
+
+## 🏅 Achievements
+
+<p align="left">
+  <img src="https://github-profile-achievements.vercel.app/?username=aksdhama0067&theme=darkhub" alt="GitHub Achievements" />
+</p>
+
+---
+
+## 📊 My GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aksdhama0067&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksdhama0067&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
+</p>
+
+---
+
+<div align="center">
+  <i>"The best way to predict the future is to invent it."</i> ✨
+</div>

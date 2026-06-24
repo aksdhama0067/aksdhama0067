@@ -54,14 +54,6 @@ A collection of native Python applications featuring highly responsive interface
 
 ---
 
-## 🏅 Achievements
-
-<p align="left">
-  <img src="https://github-profile-achievements.vercel.app/?username=aksdhama0067&theme=darkhub" alt="GitHub Achievements" />
-</p>
-
----
-
 ## 📊 My GitHub Insights
 
 <p align="center">

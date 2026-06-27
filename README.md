@@ -66,6 +66,7 @@ A collection of native Python applications featuring highly responsive interface
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
 </p>
 
+
 ---
 
 <div align="center">

@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Python+%7C+Full-Stack+Developer+%F0%9F%90%8D;Building+Smart+%26+Sleek+Applications+%F0%9F%93%B1;Passionate+About+UI%2FUX+%26+Algorithms+%E2%9A%99%EF%B8%8F)](https://github.com/)
 
+
 <p>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0891b2?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Environment-Linux%20%26%20Windows-0891b2?style=for-the-badge&logo=linux&logoColor=white" />

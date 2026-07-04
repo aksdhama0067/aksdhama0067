@@ -30,7 +30,7 @@ I am a **Computer Science Engineering** student with a deep passion for writing 
 ### 🚀 Languages & Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,html,css&theme=dark" alt="Languages" />
   </a>
 </p>
 

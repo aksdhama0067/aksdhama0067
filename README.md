@@ -37,7 +37,7 @@ I am a **Computer Science Engineering** student with a deep passion for writing 
 ### 🛠️ Tools & Environment
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm,androidstudio&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm,androidstudio,codedex&theme=dark" alt="Tools" />
   </a>
 </p>
 

@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Workspace!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Python+%7C+Full-Stack+Developer+%F0%9F%90%8D;Building+Smart+%26+Sleek+Applications+%F0%9F%93%B1;Passionate+About+UI%2FUX+%26+Algorithms+%E2%9A%99%EF%B8%8F)](https://github.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
 
 <p>
@@ -16,7 +16,7 @@
 
 ## 💡 About Me
 
-I am a **Computer Science Engineering** student with a deep passion for writing clean, efficient code and transforming ideas into interactive, scalable software applications. I specialize in building utility tools, intelligent desktop software, and responsive user experiences.
+I am a **Computer Science Engineering** student with a deep passion for writing clean, efficient code and transforming ideas into interactive, scalable software applications. I specialize in building robust backend systems, crafting intuitive user interfaces, and architecting solutions that solve real-world problems.
 
 - 🎓 **Focus Area:** Software Architecture, Algorithms, and Core CSE
 - ⚙️ **Currently Learning:** Advanced UI framework design and full-stack API architectures
@@ -37,7 +37,7 @@ I am a **Computer Science Engineering** student with a deep passion for writing 
 ### 🛠️ Tools & Environment
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm,androidstudio,codedex&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm,androidstudio&theme=dark" alt="Tools" />
   </a>
 </p>
 
@@ -45,27 +45,38 @@ I am a **Computer Science Engineering** student with a deep passion for writing 
 
 ## 🛠️ Featured Engineering Projects
 
-### 📍 [Healthiest Route Navigation App](https://github.com/)
-An intelligent routing application designed for Indian urban areas that calculates paths not just based on distance, but by factoring in **real-time air quality metrics** and **heat index levels**.
+### 📍 [Healthiest Route Navigation App](https://github.com/aksdhama0067/weather-aqi-companion)
+An intelligent routing application designed for Indian urban areas that calculates paths not just based on distance, but by factoring in **real-time air quality metrics** and **heat index levels** to help users choose the healthiest commute.
 * **Tech Stack:** Python, Mapping APIs, Data Parsers
 
-### 📱 [Custom Mobile/Desktop Application Frameworks](https://github.com/)
+### 📱 [Smart Colorizer Filter](https://github.com/aksdhama0067/smart_colorizer_filter)
 A collection of native Python applications featuring highly responsive interfaces, custom UI elements, and fast back-end state handling.
 * **Tech Stack:** Python, UI design engines
+
+### 🌐 [Local File Organizer](https://github.com/aksdhama0067/local-file-organizer)
+An automated file management tool that organizes files based on type, date, and custom rules.
+* **Tech Stack:** Python, File System APIs
 
 ---
 
 ## 📊 My GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksdhama0067&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksdhama0067&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aksdhama0067&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksdhama0067&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+---
+
+## 🔗 Connect With Me
+
+- 💼 **GitHub:** [@aksdhama0067](https://github.com/aksdhama0067)
+- 📧 **Email:** Check my GitHub profile
+- 🐦 **Follow:** Open to collaborations and contributions
 
 ---
 

@@ -67,7 +67,7 @@ An automated file management tool that organizes files based on type, date, and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=false" alt="Contribution Graph" />
 </p>
 
 ---

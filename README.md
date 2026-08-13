@@ -66,9 +66,9 @@ An automated file management tool that organizes files based on type, date, and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksdhama0067&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aksdhama0067&theme=github-compact&custom_title=Contribution%20Graph&radius=16&hide_border=true&area=true" alt="Contribution Graph" />
-</p> -->
+</p> 
 
 ---
 
